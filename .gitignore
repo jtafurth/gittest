@@ -108,5 +108,6 @@ Backup*/
 UpgradeLog*.XML
 
 #ignore files
-web.config
-AcuerdoCCB.aspx
+/AcuerdoCCB.aspx
+
+/*.config
