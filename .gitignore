@@ -109,3 +109,4 @@ UpgradeLog*.XML
 
 #ignore files
 web.config
+AcuerdoCCB.aspx
